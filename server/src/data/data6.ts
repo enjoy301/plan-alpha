@@ -1,0 +1,102 @@
+export const data6 = {
+  date: "2023-01-27",
+  day_of_week: "금",
+  schedule: [
+    {
+      title: "잠",
+      category: "sleep",
+      startTime: "00:00:00",
+      endTime: "08:00:00",
+    },
+    {
+      title: "아침",
+      category: "meal",
+      startTime: "08:00:00",
+      endTime: "08:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "08:30:00",
+      endTime: "09:00:00",
+    },
+    {
+      title: "오전 업무",
+      category: "etc",
+      startTime: "09:00:00",
+      endTime: "11:00:00",
+    },
+    {
+      title: "춤 연습",
+      category: "etc",
+      startTime: "11:00:00",
+      endTime: "12:00:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "12:00:00",
+      endTime: "12:30:00",
+    },
+    {
+      title: "점심",
+      category: "meal",
+      startTime: "12:30:00",
+      endTime: "13:00:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "13:00:00",
+      endTime: "14:30:00",
+    },
+    {
+      title: "친구 만나러 가기",
+      category: "etc",
+      startTime: "14:30:00",
+      endTime: "17:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "17:30:00",
+      endTime: "18:30:00",
+    },
+    {
+      title: "저녁",
+      category: "meal",
+      startTime: "18:30:00",
+      endTime: "19:30:00",
+    },
+    {
+      title: "휴식",
+      category: "etc",
+      startTime: "19:30:00",
+      endTime: "20:30:00",
+    },
+    {
+      title: "기술 블로그 포스트 작성",
+      category: "hack",
+      startTime: "20:30:00",
+      endTime: "21:30:00",
+    },
+    {
+      title: "Spring Security 공부",
+      category: "hack",
+      startTime: "21:30:00",
+      endTime: "22:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "22:30:00",
+      endTime: "23:00:00",
+    },
+    {
+      title: "게임 한 판",
+      category: "etc",
+      startTime: "23:00:00",
+      endTime: "24:00:00",
+    },
+  ],
+};

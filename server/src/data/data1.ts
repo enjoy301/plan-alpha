@@ -1,0 +1,96 @@
+export const data1 = {
+  date: "2023-01-22",
+  day_of_week: "일",
+  schedule: [
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "00:00:00",
+      endTime: "01:00:00",
+    },
+    {
+      title: "잠",
+      category: "sleep",
+      startTime: "01:00:00",
+      endTime: "09:00:00",
+    },
+    {
+      title: "아침",
+      category: "meal",
+      startTime: "09:00:00",
+      endTime: "09:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "09:30:00",
+      endTime: "10:00:00",
+    },
+    {
+      title: "운동",
+      category: "workout",
+      startTime: "10:00:00",
+      endTime: "11:00:00",
+    },
+    {
+      title: "오전 업무",
+      category: "etc",
+      startTime: "11:00:00",
+      endTime: "12:30:00",
+    },
+    {
+      title: "점심",
+      category: "meal",
+      startTime: "12:30:00",
+      endTime: "13:00:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "13:00:00",
+      endTime: "13:30:00",
+    },
+    {
+      title: "오후 업무",
+      category: "etc",
+      startTime: "13:30:00",
+      endTime: "17:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "17:30:00",
+      endTime: "18:30:00",
+    },
+    {
+      title: "저녁",
+      category: "meal",
+      startTime: "18:30:00",
+      endTime: "19:30:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "19:30:00",
+      endTime: "20:00:00",
+    },
+    {
+      title: "드라이브",
+      category: "etc",
+      startTime: "20:00:00",
+      endTime: "22:00:00",
+    },
+    {
+      title: "empty",
+      category: "empty",
+      startTime: "22:00:00",
+      endTime: "22:30:00",
+    },
+    {
+      title: "유튜브",
+      category: "etc",
+      startTime: "22:30:00",
+      endTime: "24:00:00",
+    },
+  ],
+};
